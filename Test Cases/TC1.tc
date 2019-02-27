@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Reproducing an I18N problem in Katalon Studio. Trying to fix it by Font Link. This test case emits 2 messages in the console. One requires Cylil font, another requires CJK font.
+- Здравствуйте
+- こんにちは</description>
+   <name>TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5785ca7a-5788-4602-995e-b11e12cef3f6</testCaseGuid>
+</TestCaseEntity>
